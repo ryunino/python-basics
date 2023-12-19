@@ -1,6 +1,8 @@
 # python-basics
 
-Welcome to the `python-basics` repository! This repository is designed as a resource for beginners in Python programming. Here, you'll find a collection of simple, well-documented Python scripts that cover basic concepts and functionalities in Python.
+Welcome to the `python-basics` repository!
+This repository is designed as a resource for beginners in Python programming.
+Here, you'll find a collection of simple, well-documented Python scripts that cover basic concepts and functionalities in Python.
 
 ## What's Inside
 
@@ -27,10 +29,13 @@ This repository includes:
 Each file in the repository is a self-contained example. Feel free to open any file and start exploring.
 
 ## Contributing
-We welcome contributions! If you have a suggestion or want to contribute a new example, please feel free to fork the repository and submit a pull request.
+We welcome contributions!
+If you have a suggestion or want to contribute a new example,
+please feel free to fork the repository and submit a pull request.
 
 ## License
 This project is open source and available under the MIT License.
 
 ## Acknowledgments
-This repository is maintained by [Your Name]. A special thanks to all contributors and supporters of this project!
+This repository is maintained by ryun.
+A special thanks to all contributors and supporters of this project!
