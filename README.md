@@ -26,7 +26,8 @@ This repository includes:
    cd python-basics
 
 3. **Explore the Files:**
-Each file in the repository is a self-contained example. Feel free to open any file and start exploring.
+Each file in the repository is a self-contained example.
+Feel free to open any file and start exploring.
 
 ## Contributing
 We welcome contributions!
