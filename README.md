@@ -17,7 +17,7 @@ This repository includes:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/python-basics.git
+   git clone https://github.com/ryunino/python-basics.git
 
 2. **Navigate to the Repository:**
    ```bash
